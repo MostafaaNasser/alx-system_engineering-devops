@@ -1,1 +1,1 @@
-scrippt
+script
